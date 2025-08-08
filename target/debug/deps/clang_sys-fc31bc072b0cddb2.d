@@ -1,0 +1,14 @@
+/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/deps/clang_sys-fc31bc072b0cddb2.d: /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/macros.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/common.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/dynamic.rs
+
+/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/deps/libclang_sys-fc31bc072b0cddb2.rlib: /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/macros.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/common.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/dynamic.rs
+
+/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/deps/libclang_sys-fc31bc072b0cddb2.rmeta: /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs /Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/macros.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/common.rs /Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/dynamic.rs
+
+/Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/lib.rs:
+/Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/support.rs:
+/Users/amandaeng/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clang-sys-1.8.1/src/link.rs:
+/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/macros.rs:
+/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/common.rs:
+/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/Users/amandaeng/Desktop/Space_Invaders_in_Rust/target/debug/build/clang-sys-efbbfe8d51a0e384/out

@@ -25,8 +25,8 @@ impl Invaders {
                     && (y > 0) 
                     && (y < 9)
                     && (x % 2 == 0) // spread them out so they don't take up every slot
-                    && (y % 2 == 0) 
-                    && (x == 2) { // for testing
+                    && (y % 2 == 0) {
+                    // && (x == 2) { // for testing
                         army.push(Invader {x, y});
                     }
             }
